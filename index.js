@@ -1,5 +1,4 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks(){
-  let distanceInBlocks = 0;
-  return distanceInBlocks;
+function distanceFromHqInBlocks(num){
+return num - 42;
 }
